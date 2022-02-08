@@ -1,8 +1,5 @@
 //Define the function called "multi" that expects 2 parameters:
-function multi(a,b){
-  let multiplication = a * b;
-  return multiplication;
-}
+
 
   //don't edit anything below this line
   var returnValue = multi(7,53812212);
